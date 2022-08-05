@@ -16,3 +16,5 @@ xCloudDroneCI is a ci script which is integrated with cloud.drone.io which can s
 * GH_EMAIL | Your Github Email
 * GH_TOKEN | Your Github Token ( repo & repo_hook )
 * GH_PUSH_REPO_URL | Your Repository for store compiled Toolchain ( without https:// or www. ) ex. github.com/xyz-prjkt/xRageTC.git
+
+# Happy building.
